@@ -22,7 +22,7 @@
 
 ## 🌸 Featured Project
 
-### 🎁 [FranceGrance](https://github.com/KyryloKapinos/francegrance)
+### 🎁 [FranceGrance](https://github.com/kyrylokap/francegrance)
 
 A perfume ordering platform built with Java Spring MVC, PostgreSQL, and Tailwind CSS.  
 Includes:
