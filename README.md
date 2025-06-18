@@ -35,7 +35,7 @@ Includes:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyrylokap&show_icons=true&theme)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyrylokap&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrylokap&layout=compact&theme=dark)
 
