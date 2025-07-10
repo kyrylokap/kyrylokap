@@ -49,4 +49,4 @@ A full-stack perfume ordering platform built with **Java Spring Boot**, **Postgr
 
 - ✉️ Email: kyrylo.kapinos.99@gmail.com  
 - 🌐 Portfolio: *coming soon*  
-- 💼 LinkedIn: *coming soon*
+- 💼 LinkedIn: https://www.linkedin.com/in/kyrylo-kapinos-1932b2374
