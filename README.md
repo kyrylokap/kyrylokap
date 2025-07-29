@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Kyrylo Kapinos
 
 🎓 Trainee/Junior Full-Stack Developer  
-🌐 Java • Spring Boot • React • PostgreSQL • Tailwind  
+🌐 Java • Spring Boot • React • PostgreSQL • Tailwind  • React Native • Redux • TypeScript
 💡 Clean code enthusiast
 
 ---
