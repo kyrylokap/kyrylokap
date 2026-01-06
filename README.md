@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kyrylo Kapinos
 
-🎓 Junior Full-Stack/Mobile  Developer 
+🎓 Junior Full-Stack/Mobile Developer 
 
 ---
 
@@ -41,15 +41,6 @@ A full-stack perfume ordering platform built with **Java Spring Boot**, **Postgr
 - 📦 Admin panel for managing products and inventory  
 
 ---
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyrylokap&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyrylokap&layout=compact&theme=dark)
-
-
----
-
 ## 📬 Contact Me
 
 - ✉️ Email: kyrylo.kapinos.99@gmail.com  
