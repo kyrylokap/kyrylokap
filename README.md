@@ -43,10 +43,10 @@ A full-stack perfume ordering platform built with **Java Spring Boot**, **Postgr
 ---
 
 ## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kyrylokap&show_icons=true&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kyrylokap&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kyrylokap&layout=compact&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyrylokap&layout=compact&theme=dark)
 
 ---
 
