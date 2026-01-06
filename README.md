@@ -20,6 +20,7 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?logo=tanstack&logoColor=white&style=for-the-badge)
 
 
 ### 🎨 Mobile  
@@ -27,6 +28,11 @@
 ![Redux](https://img.shields.io/badge/redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white&style=for-the-badge)
+![TanStack](https://img.shields.io/badge/TanStack-FF4154?logo=tanstack&logoColor=white&style=for-the-badge)
+![Reanimated](https://img.shields.io/badge/Reanimated-FF3E00?logo=react&logoColor=white&style=for-the-badge)
+![React Native Skia](https://img.shields.io/badge/React_Native_Skia-00D19F?logo=react&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
 ---
 
