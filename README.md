@@ -35,15 +35,14 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
 ---
-
 ## Products created or supported by Me
-- ![Spoken App](https://apps.apple.com/us/app/spoken-bible/id6654893308)
-- ![TheIceSack App](https://www.theicesack.com)
-- ![Fields Of Peers App](https://fieldsofpeers.com)
-- ![Hype](https://apps.apple.com/app/apple-store/id6477802830?pt=126903881&ct=hypememe&mt=8)
-- ![Rise or Pay Alarm](https://apps.apple.com/pl/app/rise-or-pay-alarm/id6755038142)
-- ![Lublin BusWidget](https://apps.apple.com/pl/app/rise-or-pay-alarm/id6755038142)
-- ![Orlik - Twoj Przewodnik](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/orlik-tw%25C3%25B3j-przewodnik/id6670343548&ved=2ahUKEwikjtO_hfeSAxUWFRAIHQveKKoQFnoECB0QAQ&usg=AOvVaw2JAe3cO2dnt8N8F6hq5xUv)
+- ![Spoken App](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/2e/ac/d0/2eacd03f-85d9-318e-00af-ef2e496ce583/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg) [Spoken App](https://apps.apple.com/us/app/spoken-bible/id6654893308)
+- ![TheIceSack App](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/59/5d/e0595d10-a8b3-6fb9-7560-bebf0c0a2442/Placeholder.mill/1200x630wa.jpg) [TheIceSack App](https://www.theicesack.com)
+- ![Fields Of Peers App](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/c7/0b/d4c70b34-ef90-24b9-7c77-339cc80bf2c9/Placeholder.mill/1200x630wa.jpg) [Fields Of Peers App](https://fieldsofpeers.com)
+- ![Hype](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/0d/5d/060d5d87-bbf9-943c-f225-7d35176aef5c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/1200x630wa.png) [Hype](https://apps.apple.com/app/apple-store/id6477802830?pt=126903881&ct=hypememe&mt=8)
+- ![Rise or Pay Alarm](https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/2e/ac/d0/2eacd03f-85d9-318e-00af-ef2e496ce583/AppIcon-0-0-1x_U007emarketing-0-0-0-3-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.jpg) [Rise or Pay Alarm](https://apps.apple.com/pl/app/rise-or-pay-alarm/id6755038142)
+- ![Lublin BusWidget](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/c7/0b/d4c70b34-ef90-24b9-7c77-339cc80bf2c9/Placeholder.mill/1200x630wa.jpg) [Lublin BusWidget](https://apps.apple.com/pl/app/rise-or-pay-alarm/id6755038142)
+- ![Orlik - Twoj Przewodnik](https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/59/5d/e0595d10-a8b3-6fb9-7560-bebf0c0a2442/Placeholder.mill/1200x630wa.jpg) [Orlik - Twoj Przewodnik](https://apps.apple.com/us/app/orlik-tw%25C3%25B3j-przewodnik/id6670343548)
 
 ## 🌸 Featured Project
 
