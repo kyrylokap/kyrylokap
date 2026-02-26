@@ -37,56 +37,10 @@
 ---
 ## Products created or supported by Me
 
-<div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
-  <div style="text-align: center; width: 80px;">
-    <a href="https://fieldsofpeers.com" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=1T0oz3sL8gfN54A5qGV31LrSdpNUk4xG2" style="width:64px; border-radius:12px;" />
-      <div style="font-size:12px; margin-top:4px;">Fields of Peers</div>
-    </a>
-  </div>
-
-  <div style="text-align: center; width:80px;">
-    <a href="https://www.theicesack.com" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=1rvWjvkW4tYlZ3060d8JVCUA6OoiB6Ifz" style="width:64px; border-radius:12px;" />
-      <div style="font-size:12px; margin-top:4px;">Madis Bilans</div>
-    </a>
-  </div>
-
-  <div style="text-align: center; width:80px;">
-    <a href="https://apps.apple.com/us/app/orlik-tw%C3%B3j-przewodnik/id6670343548" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=1wjOVgOIpfrifgyAQDrzdSTKAHWIcu6V7" style="width:64px; border-radius:12px;" />
-      <div style="font-size:12px; margin-top:4px;">Orlik</div>
-    </a>
-  </div>
-
-  <div style="text-align: center; width:80px;">
-    <a href="https://apps.apple.com/pl/app/rise-or-pay-alarm/id6755038142" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=1f-8z4I-UlY6_qH5ex_u2k8yRT4ARtYQx" style="width:64px; border-radius:12px;" />
-      <div style="font-size:12px; margin-top:4px;">Rise or Pay Alarm</div>
-    </a>
-  </div>
-
-  <div style="text-align: center; width:80px;">
-    <a href="https://apps.apple.com/us/app/spoken-bible/id6654893308" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=18OKyE7e4ioA0uyu9xpreq1P06p9rM3Y8" style="width:64px; border-radius:12px;" />
-      <div style="font-size:12px; margin-top:4px;">Spoken</div>
-    </a>
-  </div>
-
-  <div style="text-align: center; width:80px;">
-    <a href="https://www.theicesack.com" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=1y2Vzj0JaIdEpB5PqpNKiHeBKG9625352" style="width:64px; border-radius:12px;" />
-      <div style="font-size:12px; margin-top:4px;">TheIceSack</div>
-    </a>
-  </div>
-
-  <div style="text-align: center; width:80px;">
-    <a href="https://apps.apple.com/us/app/hype-trade-memecoins/id6477802830" target="_blank">
-      <img src="https://t1.gstatic.com/images?q=tbn:ANd9GcShazlDpzy3vBD3cL3_3N1b1K3PXXwUvgvGJg&s" style="width:64px; border-radius:12px;" />
-      <div style="font-size:12px; margin-top:4px;">Hype</div>
-    </a>
-  </div>
-</div>
+| Fields of Peers | Madis Bilans | Orlik | Rise or Pay Alarm | Spoken | TheIceSack | Hype |
+|-----------------|--------------|-------|------------------|--------|------------|------|
+| <img src="https://drive.google.com/uc?export=view&id=1T0oz3sL8gfN54A5qGV31LrSdpNUk4xG2" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1rvWjvkW4tYlZ3060d8JVCUA6OoiB6Ifz" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1wjOVgOIpfrifgyAQDrzdSTKAHWIcu6V7" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1f-8z4I-UlY6_qH5ex_u2k8yRT4ARtYQx" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=18OKyE7e4ioA0uyu9xpreq1P06p9rM3Y8" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1y2Vzj0JaIdEpB5PqpNKiHeBKG9625352" width="64" /> | <img src="https://t1.gstatic.com/images?q=tbn:ANd9GcShazlDpzy3vBD3cL3_3N1b1K3PXXwUvgvGJg&s" width="64" /> |
+| [Link](https://fieldsofpeers.com) | [Link](https://www.theicesack.com) | [Link](https://apps.apple.com/us/app/orlik-tw%C3%B3j-przewodnik/id6670343548) | [Link](https://apps.apple.com/pl/app/rise-or-pay-alarm/id6755038142) | [Link](https://apps.apple.com/us/app/spoken-bible/id6654893308) | [Link](https://www.theicesack.com) | [Link](https://apps.apple.com/us/app/hype-trade-memecoins/id6477802830) |
 
 
 ## 🌸 Featured Project
