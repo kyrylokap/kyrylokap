@@ -36,6 +36,15 @@
 
 ---
 
+## Products created or supported by Me
+- ![Spoken App](https://apps.apple.com/us/app/spoken-bible/id6654893308)
+- ![TheIceSack App](https://www.theicesack.com)
+- ![Fields Of Peers App](https://fieldsofpeers.com)
+- ![Hype](https://apps.apple.com/app/apple-store/id6477802830?pt=126903881&ct=hypememe&mt=8)
+- ![Rise or Pay Alarm](https://apps.apple.com/pl/app/rise-or-pay-alarm/id6755038142)
+- ![Lublin BusWidget](https://apps.apple.com/pl/app/rise-or-pay-alarm/id6755038142)
+- ![Orlik - Twoj Przewodnik](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/orlik-tw%25C3%25B3j-przewodnik/id6670343548&ved=2ahUKEwikjtO_hfeSAxUWFRAIHQveKKoQFnoECB0QAQ&usg=AOvVaw2JAe3cO2dnt8N8F6hq5xUv)
+
 ## 🌸 Featured Project
 
 ### 🎁 [FranceGrance](https://github.com/kyrylokap/francegrance)
