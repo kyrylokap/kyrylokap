@@ -37,7 +37,10 @@
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 
 ---
-## Products created or supported by me
+## Commercial Projects
+
+While working at Company Madis I contributed to:
+
 | Fields of Peers | Madis Bilans | Orlik | Rise or Pay Alarm | Spoken | TheIceSack | Hype | Lublin BusWidget |
 |-----------------|--------------|-------|-------------------|--------|------------|------|------------------|
 | <img src="https://drive.google.com/uc?export=view&id=1T0oz3sL8gfN54A5qGV31LrSdpNUk4xG2" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1rvWjvkW4tYlZ3060d8JVCUA6OoiB6Ifz" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1wjOVgOIpfrifgyAQDrzdSTKAHWIcu6V7" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1f-8z4I-UlY6_qH5ex_u2k8yRT4ARtYQx" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=18OKyE7e4ioA0uyu9xpreq1P06p9rM3Y8" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1y2Vzj0JaIdEpB5PqpNKiHeBKG9625352" width="64" /> | <img src="https://t1.gstatic.com/images?q=tbn:ANd9GcShazlDpzy3vBD3cL3_3N1b1K3PXXwUvgvGJg&s" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1JKFPEZW5M9XQHxb8FDv9HoXXGGPiqSP7" width="64" /> |
