@@ -45,7 +45,19 @@ While working at Company Madis I contributed to:
 |-----------------|--------------|-------|-------------------|--------|------------|------|------------------|
 | <img src="https://drive.google.com/uc?export=view&id=1T0oz3sL8gfN54A5qGV31LrSdpNUk4xG2" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1rvWjvkW4tYlZ3060d8JVCUA6OoiB6Ifz" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1wjOVgOIpfrifgyAQDrzdSTKAHWIcu6V7" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1f-8z4I-UlY6_qH5ex_u2k8yRT4ARtYQx" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=18OKyE7e4ioA0uyu9xpreq1P06p9rM3Y8" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1y2Vzj0JaIdEpB5PqpNKiHeBKG9625352" width="64" /> | <img src="https://t1.gstatic.com/images?q=tbn:ANd9GcShazlDpzy3vBD3cL3_3N1b1K3PXXwUvgvGJg&s" width="64" /> | <img src="https://drive.google.com/uc?export=view&id=1JKFPEZW5M9XQHxb8FDv9HoXXGGPiqSP7" width="64" /> |
 | [Link](https://fieldsofpeers.com) | [Link](https://www.theicesack.com) | [Link](https://apps.apple.com/us/app/orlik-tw%C3%B3j-przewodnik/id6670343548) | [Link](https://apps.apple.com/pl/app/rise-or-pay-alarm/id6755038142) | [Link](https://apps.apple.com/us/app/spoken-bible/id6654893308) | [Link](https://www.theicesack.com) | [Link](https://apps.apple.com/us/app/hype-trade-memecoins/id6477802830) | [Link](#) |
-## 🌸 Featured Project
+## 🌸 Featured Projects
+
+### 🚗 [Car raj](https://github.com/kyrylokap/car-raj)
+
+A cross-platform mobile marketplace for buying and selling vehicles, built with **React Native (Expo)**, **TypeScript**, **Supabase**, and **Firebase**.  
+
+**Key Features:**
+- 👤 Secure user authentication and personal profile management  
+- 🏎️ Comprehensive vehicle browsing, filtering, and detailed car listings  
+- 💬 Real-time chat messaging connecting buyers and sellers directly  
+- 🏷️ Intuitive submission flow for users to list and sell their own vehicles  
+- ❤️ Dedicated favorites system to save and track desired cars
+
 
 ### 🎁 [FranceGrance](https://github.com/kyrylokap/francegrance)
 
