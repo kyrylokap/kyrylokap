@@ -35,6 +35,13 @@
 ![React Native Skia](https://img.shields.io/badge/React_Native_Skia-00D19F?logo=react&logoColor=white&style=for-the-badge)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![RevenueCat](https://img.shields.io/badge/RevenueCat-FF3E00?logo=revenuecat&logoColor=white&style=for-the-badge)
+![Zustand](https://img.shields.io/badge/Zustand-000000?logo=react&logoColor=white&style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=white&style=for-the-badge)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=white&style=for-the-badge)
+![PostHog](https://img.shields.io/badge/PostHog-FF7A00?logo=posthog&logoColor=white&style=for-the-badge)
+![EAS](https://img.shields.io/badge/EAS-000020?logo=expo&logoColor=white&style=for-the-badge)
+![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 
 ---
 ## Commercial Projects
