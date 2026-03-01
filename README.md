@@ -42,6 +42,7 @@
 ![PostHog](https://img.shields.io/badge/PostHog-FF7A00?logo=posthog&logoColor=white&style=for-the-badge)
 ![EAS](https://img.shields.io/badge/EAS-000020?logo=expo&logoColor=white&style=for-the-badge)
 ![NativeWind](https://img.shields.io/badge/NativeWind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
+![Unistyles](https://img.shields.io/badge/Unistyles-000000?logo=react&logoColor=white&style=for-the-badge)
 
 ---
 ## Commercial Projects
