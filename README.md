@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kyrylo Kapinos
 
-🎓 Junior Full-Stack/Mobile Developer 
+🎓 Junior Frontend/Mobile Developer 
 
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=kyrylokap&color=blue)
