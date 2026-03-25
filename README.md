@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kyrylo Kapinos
 
-💸 Middle Frontend/Mobile Developer 
+💸 Junior Frontend/Mobile Developer 
 
 
 # ![Profile Views](https://komarev.com/ghpvc/?username=kyrylokap&color=blue)
