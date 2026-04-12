@@ -13,6 +13,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,7 +34,6 @@
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?logo=tanstack&logoColor=white&style=for-the-badge)
 ![Reanimated](https://img.shields.io/badge/Reanimated-FF3E00?logo=react&logoColor=white&style=for-the-badge)
 ![React Native Skia](https://img.shields.io/badge/React_Native_Skia-00D19F?logo=react&logoColor=white&style=for-the-badge)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
 ![RevenueCat](https://img.shields.io/badge/RevenueCat-FF3E00?logo=revenuecat&logoColor=white&style=for-the-badge)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?logo=react&logoColor=white&style=for-the-badge)
